@@ -30,6 +30,7 @@ function loadCustomNavbar(){
              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
              <li><a class="dropdown-item" href="carruselmujer.html">Cortes Mujer</a></li>
              <li><a class="dropdown-item" href="carrusel.html">Cortes Hombres</a></li>
+             <li><a class="dropdown-item" href="carruselninos.html">Cortes Niños</a></li>
              </ul>
          </li>
          </ul>
