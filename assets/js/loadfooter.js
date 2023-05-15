@@ -1,7 +1,6 @@
 function loadCustomFooter(){
     var customFooter =  `
                        
- 
     <!--PIE DE PAGINA-->
     <section class="" id="contacto">
     <footer class="pie-pagina">
