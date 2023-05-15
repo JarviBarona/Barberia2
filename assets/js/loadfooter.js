@@ -47,4 +47,6 @@ function loadCustomFooter(){
     customFooterHTML.innerHTML = customFooter;
 }
 
+
 loadCustomFooter();
+//llamado de funcion

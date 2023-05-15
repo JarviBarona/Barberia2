@@ -17,10 +17,10 @@ body{
 
 #contenedor-formulario{
     position:absolute;
-    top: 58%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-height: auto;
+
     background: #fbfafa;
     border-radius: 20px;
     max-width: 600px;
