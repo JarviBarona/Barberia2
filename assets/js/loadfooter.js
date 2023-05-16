@@ -1,9 +1,7 @@
 function loadCustomFooter(){
     var customFooter =  `
-                       
- 
     <!--PIE DE PAGINA-->
-    <section class="" id="contacto">
+    <section class="container" id="contacto">
     <footer class="pie-pagina">
         <div class="grupo-1">
             <div class="box">
@@ -38,11 +36,7 @@ function loadCustomFooter(){
         </div>
     </footer>
     </section>
- 
-
-   
-                       
-  `;
+`;
 
     var customFooterHTML = document.getElementById("custom-footer");
     customFooterHTML.innerHTML = customFooter;
